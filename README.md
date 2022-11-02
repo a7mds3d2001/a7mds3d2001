@@ -180,3 +180,6 @@
 <img src="https://i.ibb.co/f9St6Sn/TAWSEL.png" alt="TAWSEL" border="0" />
 
 <!-- End Section Projects -->
+<hr>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=a7md-s3d-2001&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
