@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **a freelancer Flutter developer**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
