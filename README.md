@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 📫 How to reach me **a7md.s3d.2001@gmailc.om**
+- 📫 How to reach me **a7md.s3d.2001@gmail.com**
 
 <br>
 <!-- Start Section Skills -->
