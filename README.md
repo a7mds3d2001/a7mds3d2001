@@ -210,4 +210,20 @@
 
 <img src="https://user-images.githubusercontent.com/70177377/209743630-c780da66-7264-4088-801e-5476cc645dc0.png" alt="M3lesh" border="0"/>
 
+<hr>
+
+<!-- Donwload Manger PROJECT -->
+
+### Donwload Manger
+
+<p>
+  Using Python users can download any files from the internet via its link and also can download YouTube videos as a single video or a full playlist with professional GUI.
+</p>
+
+<a href="https://github.com/a7md-s3d-2001/Download-Manager" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+
+<img src="https://user-images.githubusercontent.com/70177377/209750790-e18417b5-3751-48dd-9806-d94c1847bd18.png" border="0"/>
+
 <!-- End Section Projects -->
