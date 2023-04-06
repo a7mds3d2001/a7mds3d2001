@@ -122,9 +122,9 @@ Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alka
 </a>
 <a href="https://apps.apple.com/us/app/dar-alkahrba/id1597367206" target="_blank">
   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
+</a> 
 
-<img src="https://user-images.githubusercontent.com/70177377/209745046-d4dd3cb2-2192-4818-b1a2-b7f0919e9840.png" alt="dar-alkahraba" border="0" />
+<img src="https://user-images.githubusercontent.com/70177377/230461343-50833307-e12c-4b5d-8650-a6369f000543.jpeg" alt="dar-alkahraba" border="0" />
 
 <hr>
 
