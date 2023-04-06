@@ -59,6 +59,28 @@
 <!-- End Section Contact Me -->
 <!-- Start Section Projects -->
 <h2>PROJECTS</h2>
+
+<!-- GOVET PROJECT -->
+
+### Govet App
+
+<p>
+Govet is the first complete veterinary platform for pets' health in Egypt, allowing pet owners to book a vet appointment, video call, or home visit. Users can also add their pets to their account and pay for services through the app.
+Admin Dashboards for Govet, Clinic, and Doctor, enabling them to manage reservations and appointments efficiently. Overall, Govet offers a comprehensive platform for pet owners to access veterinary services and care easily.
+</p>
+
+<a href="https://github.com/mohammedelshafey12/Govet" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+
+<a href="https://play.google.com/store/apps/details?id=com.technospace.govet" target="_blank">
+  <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
+</a>
+  
+<img src="https://user-images.githubusercontent.com/70177377/209745043-bab0c5ef-acfb-439f-bb00-68baa9ce4e00.png" alt="govet" border="0" />
+
+<hr>
+
 <!-- WAFFAR CASH PROJECT-->
 
 ### Waffar Cash
@@ -82,32 +104,37 @@
 
 
 <hr>
-<!-- GOVET PROJECT -->
 
-### Govet App
+<!-- DAR ALKAHRBA PROJECT-->
+
+### Dar Alkahrba
 
 <p>
-  Govet helps people who own pets find a vet with a go-home or video call via the app. People can book an examination in the clinics within the application. Animals can be purchased through the app.
+Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alkahrbaa training center. The app allows students to log in, subscribe to courses, attend sessions, and send an apology email if they miss a session. The app includes an Admin Dashboard for admins to accept students, add courses and sessions, and download attendance reports. There is also a separate Admin Dashboard for managers to oversee admin work for any course or location. Overall, the app simplifies the student attendance system for the training center.
 </p>
 
-<a href="https://github.com/mohammedelshafey12/Govet" target="_blank">
+<a href="" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a> 
 
-<a href="https://play.google.com/store/apps/details?id=com.technospace.govet" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.technoSpace.dar_elkahraba_app" target="_blank">
   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
 </a>
-  
-<img src="https://user-images.githubusercontent.com/70177377/209745043-bab0c5ef-acfb-439f-bb00-68baa9ce4e00.png" alt="govet" border="0" />
+<a href="https://apps.apple.com/us/app/dar-alkahrba/id1597367206" target="_blank">
+  <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+
+<img src="https://user-images.githubusercontent.com/70177377/209745046-d4dd3cb2-2192-4818-b1a2-b7f0919e9840.png" alt="dar-alkahraba" border="0" />
 
 <hr>
+
 
 <!-- DISCOUNT EMY PROJECT-->
 
 ### Discount Emy
 
 <p>
-  Discount Emy will help you in providing discounts for many different educational and recreational places for adults and children.
+  Discount Emy is one of the family. We will help you in providing discounts for many different educational and recreational places for adults and children from today, all year long.
 </p>
 
 <a href="https://github.com/a7md-s3d-2001/emy_discount" target="_blank">
@@ -123,29 +150,6 @@
 
 <img src="https://user-images.githubusercontent.com/70177377/209745052-4b2c6343-75e1-4fb2-9c86-9180aa2fb6ec.png" alt="discount-emy" border="0" />
 
-
-<hr>
-
-<!-- DAR ALKAHRBA PROJECT-->
-
-### Dar Alkahrba
-
-<p>
-  Student attendance system with Qr code to dar Alkahraba training center system
-</p>
-
-<a href="" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a> 
-
-<a href="https://play.google.com/store/apps/details?id=com.technoSpace.dar_elkahraba_app" target="_blank">
-  <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
-</a>
-<a href="https://apps.apple.com/us/app/dar-alkahrba/id1597367206" target="_blank">
-  <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-
-<img src="https://user-images.githubusercontent.com/70177377/209745046-d4dd3cb2-2192-4818-b1a2-b7f0919e9840.png" alt="dar-alkahraba" border="0" />
 
 <hr>
 
