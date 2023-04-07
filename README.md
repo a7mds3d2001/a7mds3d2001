@@ -62,11 +62,10 @@
 
 <!-- GOVET PROJECT -->
 
-### Govet App
+### GOVET
 
 <p>
-Govet is the first complete veterinary platform for pets' health in Egypt, allowing pet owners to book a vet appointment, video call, or home visit. Users can also add their pets to their account and pay for services through the app.
-Admin Dashboards for Govet, Clinic, and Doctor, enabling them to manage reservations and appointments efficiently. Overall, Govet offers a comprehensive platform for pet owners to access veterinary services and care easily.
+Govet is Egypt's first all-inclusive veterinary platform for pets, enabling users to book appointments, video calls, or home visits, add pets to their account, and make payments through the app.
 </p>
 
 <a href="https://github.com/mohammedelshafey12/Govet" target="_blank">
@@ -83,10 +82,10 @@ Admin Dashboards for Govet, Clinic, and Doctor, enabling them to manage reservat
 
 <!-- WAFFAR CASH PROJECT-->
 
-### Waffar Cash
+### WAFFAR CASH
 
 <p>
-  Super app for serving many users. People can order anything from app and deliver it to home address.
+The project aims to create a multi-vendor eCommerce platform for sellers to manage their online stores and offer a seamless buying and selling experience for customers.
 </p>
 
 <a href="https://github.com/a7md-s3d-2001/waffar_cash" target="_blank">
@@ -107,10 +106,10 @@ Admin Dashboards for Govet, Clinic, and Doctor, enabling them to manage reservat
 
 <!-- DAR ALKAHRBA PROJECT-->
 
-### Dar Alkahrba
+### DAR ALKAHRBAA
 
 <p>
-Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alkahrbaa training center. The app allows students to log in, subscribe to courses, attend sessions, and send an apology email if they miss a session. The app includes an Admin Dashboard for admins to accept students, add courses and sessions, and download attendance reports. There is also a separate Admin Dashboard for managers to oversee admin work for any course or location. Overall, the app simplifies the student attendance system for the training center.
+Dar Alkahrbaa is a QR code-based student attendance system for the training center, enabling students to log in, subscribe to courses, attend sessions, and send apology emails for missed sessions.
 </p>
 
 <a href="" target="_blank">
@@ -131,10 +130,10 @@ Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alka
 
 <!-- DISCOUNT EMY PROJECT-->
 
-### Discount Emy
+### DISCOUNT EMY
 
 <p>
-  Discount Emy is one of the family. We will help you in providing discounts for many different educational and recreational places for adults and children from today, all year long.
+Discount Emy is one of the family. We will help you in providing discounts for many different educational and recreational places for adults and children from today, all year long.
 </p>
 
 <a href="https://github.com/a7md-s3d-2001/emy_discount" target="_blank">
@@ -155,10 +154,10 @@ Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alka
 
 <!-- ABD ELRAHMAN MOHAMED PROJECT-->
 
-### Abdelrahman Mohamed
+### ABDELRAHMAN MOHAMED
 
 <p>
-  Abdel Rahman Mohamed is a young writer, born in 1998 from Alexandria. He studied at the Faculty of Arts, Alexandria University. He is best known for his stories and ideas about horror events.
+Abdel Rahman Mohamed, born in 1998 in Alexandria, is a young writer known for his horror stories and ideas. He studied at Alexandria University's Faculty of Arts.
 </p>
 
 <a href="https://github.com/a7md-s3d-2001/adbelr7manmohamed_android" target="_blank">
@@ -178,10 +177,10 @@ Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alka
 
 <!-- TAWSEL PROJECT -->
 
-### Tawsel
+### TAWSEL
 
 <p>
-  Super app for serving many users. People can order anything from app and deliver it to home address.
+The goal is to create a multi-vendor eCommerce platform for seamless buying and selling, where multiple sellers can manage their own online stores and sell products to customers.
 </p>
 
 <a href="https://github.com/a7md-s3d-2001/tawsel_app" target="_blank">
@@ -196,12 +195,55 @@ Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alka
 
 <hr>
 
-<!-- M3lesh PROJECT -->
+<!-- Alqaisar PROJECT -->
 
-### M3lesh
+### ALQAISAR GROUP
 
 <p>
-  M3lesh is an application that aims to support people morally. It is your personal space to express everything.
+Al Qaisar Group app offers a user-friendly interface, seamless navigation, and secure payment options for browsing and purchasing products from diverse categories, delivering a convenient shopping experience.
+</p>
+
+<a href="https://github.com/George-Abdelmessh/Alqayser-App" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+
+<a href="" target="_blank">
+  <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
+</a>
+
+<img src="" alt="TAWSEL" border="0" />
+
+<hr>
+
+<!-- United Tv PROJECT -->
+
+### UNITED TV
+
+<p>
+United TV app, a Android TV application that allows users to watch movies, series, and live channels. The app sources content from APIs by subscription from manager dashboard.
+</p>
+
+<a href="https://github.com/George-Abdelmessh/united_tv" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+
+<a href="" target="_blank">
+  <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
+</a>
+
+<img src="" alt="TAWSEL" border="0" />
+
+<hr>
+
+
+
+
+<!-- M3lesh PROJECT -->
+
+### M3LESH
+
+<p>
+M3lesh is a mobile app designed to support individuals with autism in expressing their emotions and concerns with others. Others in the comments encourage them to overcome their problems.
 </p>
 
 <a href="https://github.com/mohammedelshafey12/m3lesh" target="_blank">
@@ -216,10 +258,10 @@ Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alka
 
 <hr>
 
-### Chat GPT Application
+### CHAT GPT
 
 <p>
-  ChatGPT is a large language model created by OpenAI that is based on the GPT-3.5 architecture. It is designed to process and generate natural language text, enabling it to engage in conversations with humans in a way that feels natural and responsive.
+ChatGPT is a large language model created by OpenAI. It is designed to process and generate natural language text, enabling it to engage in conversations with humans in a way that feels natural and responsive.
 </p>
 
 <a href="https://github.com/a7mds3d2001/chat_gpt" target="_blank">
@@ -236,7 +278,7 @@ Dar Alkahrbaa is a student attendance system that uses QR codes for the Dar Alka
 
 <!-- Donwload Manger PROJECT -->
 
-### Donwload Manger
+### DONWLOAD MANGER
 
 <p>
   Using Python users can download any files from the internet via its link and also can download YouTube videos as a single video or a full playlist with professional GUI.
