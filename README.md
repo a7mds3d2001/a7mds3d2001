@@ -197,10 +197,10 @@ The goal is to create a multi-vendor eCommerce platform for seamless buying and 
 
 <!-- Alqaisar PROJECT -->
 
-### ALQAISAR GROUP
+### ORDER E-COMMARCE
 
 <p>
-Al Qaisar Group app offers a user-friendly interface, seamless navigation, and secure payment options for browsing and purchasing products from diverse categories, delivering a convenient shopping experience.
+The Order application is an e-commerce application through which you can make online purchases with ease and security. The application features an easy to use multilingual user interface, where users can interact in Arabic and English. The app also includes features such as secure payment, multiple shipping options, promotions, and push alerts.
 </p>
 
 <a href="https://github.com/George-Abdelmessh/Alqayser-App" target="_blank">
@@ -211,7 +211,7 @@ Al Qaisar Group app offers a user-friendly interface, seamless navigation, and s
   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
 </a>
 
-<img src="" alt="TAWSEL" border="0" />
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/3c7428be-9a49-438f-846f-b61248c3e18c" alt="ORDER" border="0" />
 
 <hr>
 
