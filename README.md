@@ -51,12 +51,9 @@
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
-  
- <!-- <a href="https://twitter.com/a7md_s3d_2001" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> --> 
 <p>
 <!-- End Section Contact Me -->
+  
 <!-- Start Section Projects -->
 <h2>PROJECTS</h2>
 
@@ -79,6 +76,28 @@ Govet is Egypt's first all-inclusive veterinary platform for pets, enabling user
 <img src="https://user-images.githubusercontent.com/70177377/209745043-bab0c5ef-acfb-439f-bb00-68baa9ce4e00.png" alt="govet" border="0" />
 
 <hr>
+
+
+<!-- ORDER PROJECT -->
+
+### ORDER E-COMMARCE
+
+<p>
+The Order application is an e-commerce application through which you can make online purchases with ease and security. The application features an easy to use multilingual user interface, where users can interact in Arabic and English. The app also includes features such as secure payment, multiple shipping options, promotions, and push alerts.
+</p>
+
+<a href="https://github.com/George-Abdelmessh/Alqayser-App" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+
+<a href="https://play.google.com/store/apps/details?id=com.order.order" target="_blank">
+  <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
+</a>
+
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/3c7428be-9a49-438f-846f-b61248c3e18c" alt="ORDER" border="0" />
+
+<hr>
+
 
 <!-- WAFFAR CASH PROJECT-->
 
@@ -191,26 +210,6 @@ The goal is to create a multi-vendor eCommerce platform for seamless buying and 
 </a>
 
 <img src="https://user-images.githubusercontent.com/70177377/209744892-e6b14edf-90a6-4e04-a8e7-98e73244f21e.png" alt="TAWSEL" border="0" />
-
-<hr>
-
-<!-- Alqaisar PROJECT -->
-
-### ORDER E-COMMARCE
-
-<p>
-The Order application is an e-commerce application through which you can make online purchases with ease and security. The application features an easy to use multilingual user interface, where users can interact in Arabic and English. The app also includes features such as secure payment, multiple shipping options, promotions, and push alerts.
-</p>
-
-<a href="https://github.com/George-Abdelmessh/Alqayser-App" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a> 
-
-<a href="" target="_blank">
-  <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
-</a>
-
-<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/3c7428be-9a49-438f-846f-b61248c3e18c" alt="ORDER" border="0" />
 
 <hr>
 
