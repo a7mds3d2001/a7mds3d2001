@@ -142,7 +142,8 @@ Dar Alkahrbaa is a QR code-based student attendance system for the training cent
   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a> 
 
-<img src="https://user-images.githubusercontent.com/70177377/230461343-50833307-e12c-4b5d-8650-a6369f000543.jpeg" alt="dar-alkahraba" border="0" />
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/a0577f39-b9c0-45c3-a1a5-3aa19ed56d8d" alt="dar-alkahraba" border="0" />
+
 
 <hr>
 
