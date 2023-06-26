@@ -232,22 +232,4 @@ M3lesh is a mobile app designed to support individuals with autism in expressing
 
 <img src="https://user-images.githubusercontent.com/70177377/209743630-c780da66-7264-4088-801e-5476cc645dc0.png" alt="M3lesh" border="0"/>
 
-<hr>
-
-### CHAT GPT
-
-<p>
-ChatGPT is a large language model created by OpenAI. It is designed to process and generate natural language text, enabling it to engage in conversations with humans in a way that feels natural and responsive.
-</p>
-
-<a href="https://github.com/a7mds3d2001/chat_gpt" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a> 
-
-<a href="https://github.com/a7mds3d2001/chat_gpt/edit/master/README.md#:~:text=Download%20APK,view%3Fusp%3Dsharing" target="_blank">
-  <img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-blue.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
-</a>
-
-<img src="https://user-images.githubusercontent.com/70177377/227380630-8bc5b466-6633-4d57-a208-efe9ba14a4e6.png" alt="M3lesh" border="0"/>
-
 <!-- End Section Projects -->
