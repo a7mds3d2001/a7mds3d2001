@@ -166,7 +166,7 @@ Discount Emy is one of the family. We will help you in providing discounts for m
   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 
-<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/ddfa8f15-4d52-4437-a3e7-479f49354996" alt="discount-emy" border="0" />
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/fd38569a-a2fa-4531-8ac8-ab4cbcebbf95" alt="discount-emy" border="0" />
 
 <hr>
 
