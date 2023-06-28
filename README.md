@@ -73,7 +73,7 @@ Govet is Egypt's first all-inclusive veterinary platform for pets, enabling user
   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
 </a>
   
-<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/b6c7c152-466f-4bb0-b041-b598d6f439b8" alt="govet" border="0" />
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/acaf48f4-7a97-46d5-bf03-780c93c63031" alt="govet" border="0" />
 
 <hr>
 
@@ -118,8 +118,7 @@ The project aims to create a multi-vendor eCommerce platform for sellers to mana
   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 
-<img src="https://user-images.githubusercontent.com/70177377/209745040-b316704c-c6d7-4318-b09f-6e0be38ea87b.png" alt="waffar-cash" border="0" />
-
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/c6e953a6-cb34-407a-8e95-45422d4718c9" alt="waffar-cash" border="0" />
 
 <hr>
 
