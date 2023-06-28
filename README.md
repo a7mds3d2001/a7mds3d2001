@@ -229,6 +229,6 @@ M3lesh is a mobile app designed to support individuals with autism in expressing
   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
 </a>
 
-<img src="https://user-images.githubusercontent.com/70177377/209743630-c780da66-7264-4088-801e-5476cc645dc0.png" alt="M3lesh" border="0"/>
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/5c2a5e4d-a141-4c49-878f-622e842581d5" alt="M3lesh" border="0"/>
 
 <!-- End Section Projects -->
