@@ -57,6 +57,23 @@
 <!-- Start Section Projects -->
 <h2>PROJECTS</h2>
 
+<!-- BASITA PROJECT -->
+
+### BASITA
+
+<p>
+Basita: Your All-in-One Delivery Solution. Get anything you desire delivered right to your doorstep, from food to essentials, all in one place. Say goodbye to multiple delivery apps and hello to convenience. Download Basita now!
+</p>
+
+<a href="[YOUR_APP_WEBSITE_OR_DOWNLOAD_LINK]" target="_blank">
+  <img alt="Learn More" src="https://img.shields.io/badge/Learn%20More-blue.svg?style=for-the-badge"/>
+</a>
+
+<img src="[YOUR_APP_IMAGE_URL]" alt="Basita" border="0" />
+
+<hr>
+
+
 <!-- GOVET PROJECT -->
 
 ### GOVET
