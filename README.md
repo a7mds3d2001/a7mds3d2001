@@ -69,7 +69,8 @@ Basita: Your All-in-One Delivery Solution. Get anything you desire delivered rig
   <img alt="Learn More" src="https://img.shields.io/badge/Learn%20More-blue.svg?style=for-the-badge"/>
 </a>
 
-<img src="[YOUR_APP_IMAGE_URL]" alt="Basita" border="0" />
+<img src="[[YOUR_APP_IMAGE_URL]](https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/c184fb1b-1642-41b8-a4f6-692b4801e859)" alt="Basita" border="0" />
+
 
 <hr>
 
