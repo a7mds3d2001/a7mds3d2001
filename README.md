@@ -83,6 +83,30 @@ Basita: Your All-in-One Delivery Solution. Get anything you desire delivered rig
 
 <hr>
 
+### Basita Delivery App
+<p>
+Indulge in a world of culinary delights with the Basita Delivery App. Order Basita's exquisite dishes and desserts effortlessly through our user-friendly app. Say goodbye to queues and hello to convenience. Download now!
+</p>
+
+
+<a href="https://github.com/SD-Solutions-eg/Basita-App-new" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+
+<a href="https://play.google.com/store/apps/details?id=com.sd.basita" target="_blank">
+  <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
+</a>
+
+<a href="https://apps.apple.com/us/app/waffar-cash/id1626369167" target="_blank">
+  <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+
+
+<p></p>
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/de588495-a054-4259-a652-67bf563d17f0" alt="Basita Delivery App" border="0" />
+
+<hr>
+
 
 <!-- GOVET PROJECT -->
 
