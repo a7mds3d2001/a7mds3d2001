@@ -89,11 +89,11 @@ Indulge in a world of culinary delights with the Basita Delivery App. Order Basi
 </p>
 
 
-<a href="https://github.com/SD-Solutions-eg/Basita-App-new" target="_blank">
+<a href="https://github.com/SD-Solutions-eg/Basita-Delivery-App" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a> 
 
-<a href="https://play.google.com/store/apps/details?id=com.sd.basita" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.sd.basita_delivery" target="_blank">
   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
 </a>
 
@@ -144,6 +144,11 @@ The Order application is an e-commerce application through which you can make on
 <a href="https://play.google.com/store/apps/details?id=com.order.order" target="_blank">
   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/>
 </a>
+
+<a href="https://apps.apple.com/us/app/order-fs/id6450720518" target="_blank">
+  <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+<p></p>
 
 <img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/c6504604-d057-44eb-939b-8d6fdf0c04fe" alt="ORDER" border="0" />
 
