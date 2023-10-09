@@ -2,7 +2,7 @@
 <h3>A passionate Flutter Developer from Egypt</h3>
 <br>
 
-- 🔭 I’m currently working as **a freelancer Flutter developer**
+- 🔭 I’m currently working as **a Flutter developer at SD Solution**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -50,7 +50,6 @@
   <a href="https://discord.com/users/Ahmed%20Saad#9905" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  
 <p>
 <!-- End Section Contact Me -->
   
@@ -125,7 +124,7 @@ M3lesh is a mobile app designed to support individuals with autism in expressing
 <p></p>
 <img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/da1fa067-d4fc-48b0-9873-7a8a1f27c9cf" alt="M3lesh" border="0"/>
 
-
+<hr>
 <!-- GOVET PROJECT -->
 
 ### GOVET
