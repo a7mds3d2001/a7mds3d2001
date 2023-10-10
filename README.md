@@ -190,8 +190,8 @@ The project aims to create a multi-vendor eCommerce platform for sellers to mana
 <a href="https://apps.apple.com/us/app/waffar-cash/id1626369167" target="_blank">
   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
-
-<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/c6e953a6-cb34-407a-8e95-45422d4718c9" alt="waffar-cash" border="0" />
+<p></p>
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/d49980dd-4788-4d57-ac60-a0872b937d29" alt="waffar-cash" border="0" />
 
 <hr>
 
