@@ -191,8 +191,7 @@ The project aims to create a multi-vendor eCommerce platform for sellers to mana
   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-blue.svg?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 <p></p>
-<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/d49980dd-4788-4d57-ac60-a0872b937d29" alt="waffar-cash" border="0" />
-
+<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/e1dbd9f2-2de3-4130-a4d6-eaf004490f99" alt="waffar-cash" border="0" />
 <hr>
 
 <!-- DAR ALKAHRBA PROJECT-->
