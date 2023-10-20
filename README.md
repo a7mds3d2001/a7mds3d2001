@@ -57,29 +57,24 @@
 
 ### BASITA
 <p>All in One delivery solution. Get anything you desire delivered right to your doorstep, from food to essentials, all in one place. Say goodbye to multiple delivery apps and hello to convenience. Download Basita now!</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and <a href="">AppStore</a></b>
+<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and <a href="https://apps.apple.com/us/app/basita-%D8%A8%D8%B3%D9%8A%D8%B7%D9%87/id6443530678">AppStore</a></b>
 <p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/38ba2cb4-50e4-4529-af5f-90b248c3a550" alt="Basita" border="0" /><hr>
 
 ### BASITA DELIVERY
 <p>This Captain Basita application confirms the order and sends it to the user so he can know his balance. Download now!</p> 
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita_delivery">GooglePlay</a> and <a href="">AppStore</a></b>
+<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita_delivery">GooglePlay</a> and <a href="https://apps.apple.com/us/app/basita-delivery/id6462816535">AppStore</a></b>
 <p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/e54b39ea-7be5-4419-84d9-2b1d40ad58ee" alt="Basita Delivery App" border="0" /><hr>
-
-### M3LESH
-<p>M3lesh is a mobile app designed to support individuals with autism in expressing their emotions and concerns with others. Others in the comments encourage them to overcome their problems.</p> 
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.goldscrum.m3lesh">GooglePlay</a></b>
-<p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/29421627-b76a-4fa6-a050-c131713890fe" alt="M3LESH" border="0" /><hr>
-
-### GOVET
-<p>Govet is Egypt's first all-inclusive veterinary platform for pets, enabling users to book appointments, video calls, or home visits, add pets to their account, and make payments through the app.</p> 
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.govet">GooglePlay</a></b>
-<p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/eda8fc5e-fc4c-4de0-ac12-9ef0c27dba8c" alt="GOVET" border="0" /><hr>
 
 ### ORDER E-COMMARCE
 <p>The Order application is an e-commerce application through which you can make online purchases with ease and security. The application features an easy to use multilingual user interface, where users can interact in Arabic and English. The app also includes features such as secure payment, multiple shipping options, promotions, and push alerts.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.order.order">GooglePlay</a> and <a href="https://apps.apple.com/us/app/order-fs/id6450720518">AppStore</a></b>
 <p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/9346fa64-cc76-419b-b91a-19ec6a8bdc60" alt="ORDER" border="0" /><hr>
 
+### M3LESH
+<p>M3lesh is a mobile app designed to support individuals with autism in expressing their emotions and concerns with others. Others in the comments encourage them to overcome their problems.</p> 
+<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.goldscrum.m3lesh">GooglePlay</a></b>
+<p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/29421627-b76a-4fa6-a050-c131713890fe" alt="M3LESH" border="0" /><hr>
+  
 ### WAFFAR CASH
 <p>The project aims to create a multi-vendor eCommerce platform for sellers to manage their online stores and offer a seamless buying and selling experience for customers.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.gao.waffar_cash">GooglePlay</a> and <a href="https://apps.apple.com/us/app/waffar-cash/id1626369167">AppStore</a></b>
@@ -89,6 +84,11 @@
 <p>Discount Emy is one of the family. We will help you in providing discounts for many different educational and recreational places for adults and children from today, all year long.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.emy_discount">GooglePlay</a> and <a href="https://apps.apple.com/us/app/discount-emy/id1617326763">AppStore</a></b>
 <p></p><img width="1679" alt="DISCOUNT EMY" src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/d5bc0312-de62-4c5d-9233-f469b3700488"><hr>
+
+### GOVET
+<p>Govet is Egypt's first all-inclusive veterinary platform for pets, enabling users to book appointments, video calls, or home visits, add pets to their account, and make payments through the app.</p> 
+<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.govet">GooglePlay</a></b>
+<p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/eda8fc5e-fc4c-4de0-ac12-9ef0c27dba8c" alt="GOVET" border="0" /><hr>
 
 ### DAR ALKAHRBAA
 <p>Dar Alkahrbaa is a QR code-based student attendance system for the training center, enabling students to log in, subscribe to courses, attend sessions, and send apology emails for missed sessions.</p>
