@@ -55,6 +55,12 @@
 <!-- <b>This project is publish on <a href="">GooglePlay</a> and <a href="">AppStore</a></b> -->
 <h2>PROJECTS</h2>
 
+### ROSTO
+<p>Rosto, a cutting-edge restaurant app that empowers customers to browse menus, place orders, and make reservations effortlessly. Rosto enhances the dining experience with user-friendly features.</p>
+<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and AppStore soon</b>
+<!-- <p></p><img src="" alt="Basita" border="0" /> -->
+<hr>
+
 ### BASITA
 <p>All in One delivery solution. Get anything you desire delivered right to your doorstep, from food to essentials, all in one place. Say goodbye to multiple delivery apps and hello to convenience. Download Basita now!</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and <a href="https://apps.apple.com/us/app/basita-%D8%A8%D8%B3%D9%8A%D8%B7%D9%87/id6443530678">AppStore</a></b>
@@ -64,6 +70,12 @@
 <p>This Captain Basita application confirms the order and sends it to the user so he can know his balance. Download now!</p> 
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita_delivery">GooglePlay</a> and <a href="https://apps.apple.com/us/app/basita-delivery/id6462816535">AppStore</a></b>
 <p></p><img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/e54b39ea-7be5-4419-84d9-2b1d40ad58ee" alt="Basita Delivery App" border="0" /><hr>
+
+### UNITED TV
+<p>United TV app, a Android TV application that allows users to watch movies, series, and live channels. The app sources content from APIs by subscription from manager dashboard.</p>
+<b>This project is install on TV box, I have an <a href="">APK</a></b>
+<!-- <p></p><img src="" alt="Basita" border="0" /> -->
+<hr>
 
 ### ORDER E-COMMARCE
 <p>The Order application is an e-commerce application through which you can make online purchases with ease and security. The application features an easy to use multilingual user interface, where users can interact in Arabic and English. The app also includes features such as secure payment, multiple shipping options, promotions, and push alerts.</p>
@@ -78,7 +90,7 @@
 ### WAFFAR CASH
 <p>The project aims to create a multi-vendor eCommerce platform for sellers to manage their online stores and offer a seamless buying and selling experience for customers.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.gao.waffar_cash">GooglePlay</a> and <a href="https://apps.apple.com/us/app/waffar-cash/id1626369167">AppStore</a></b>
-<p></p><img width="1690" alt="WAFFAR CASH" src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/df94c101-b075-4971-9687-f1917cc1457a"><hr><hr>
+<p></p><img width="1690" alt="WAFFAR CASH" src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/df94c101-b075-4971-9687-f1917cc1457a"><hr>
 
 ### DISCOUNT EMY
 <p>Discount Emy is one of the family. We will help you in providing discounts for many different educational and recreational places for adults and children from today, all year long.</p>
