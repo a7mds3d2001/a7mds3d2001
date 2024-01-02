@@ -2,7 +2,7 @@
 <h3>A passionate Flutter Developer from Egypt</h3>
 <br>
 
-- 🔭 I’m currently working as **a Flutter developer at SD Solution**
+- 🔭 I’m currently working as **a Flutter developer at Vzadi**
 
 - 🌱 I’m currently learning **Machine Learning**
 
