@@ -21,10 +21,10 @@
   <a href="http://Wa.me/201026272813" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-saad-2001/" target="_blank">
+  <a href="https://www.linkedin.com/in/a7mds3d2001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://www.instagram.com/a7md_s3d_2001/" target="_blank">
+  <a href="https://www.instagram.com/a7mds3d2001/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/Ahmed%20Saad#9905" target="_blank">
@@ -32,13 +32,12 @@
   </a>
 <p>
 <!-- End Section Contact Me -->
-<!-- <b>This project is publish on <a href="">GooglePlay</a> and <a href="">AppStore</a></b> -->
+
 <h2>PROJECTS</h2>
 
 ### ROSTO
 <p>Rosto, a cutting-edge restaurant app that empowers customers to browse menus, place orders, and make reservations effortlessly. Rosto enhances the dining experience with user-friendly features.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and AppStore soon</b>
-<!-- <p></p><img src="" alt="Basita" border="0" /> -->
 <hr>
 
 ### BASITA
@@ -54,7 +53,6 @@
 ### UNITED TV
 <p>United TV app, a Android TV application that allows users to watch movies, series, and live channels. The app sources content from APIs by subscription from manager dashboard.</p>
 <b>This project is install on TV box, I have an <a href="">APK</a></b>
-<!-- <p></p><img src="" alt="Basita" border="0" /> -->
 <hr>
 
 ### ORDER E-COMMARCE
