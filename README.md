@@ -13,7 +13,7 @@
 
 ### ROSTO
 <p>Rosto, a cutting-edge restaurant app that empowers customers to browse menus, place orders, and make reservations effortlessly. Rosto enhances the dining experience with user-friendly features.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and AppStore soon</b><hr>
+<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.rosto.rosto">GooglePlay</a> and AppStore soon</b><hr>
 
 ### BASITA
 <p>All in One delivery solution. Get anything you desire delivered right to your doorstep, from food to essentials, all in one place. Say goodbye to multiple delivery apps and hello to convenience. Download Basita now!</p>
