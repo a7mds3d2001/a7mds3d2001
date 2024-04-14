@@ -13,7 +13,7 @@
 
 ### ROSTO
 <p>Rosto, a cutting-edge restaurant app that empowers customers to browse menus, place orders, and make reservations effortlessly. Rosto enhances the dining experience with user-friendly features.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.rosto.rosto">GooglePlay</a> and AppStore soon</b><hr>
+<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.rosto.rosto">GooglePlay</a> and <a href="https://apps.apple.com/us/app/rosto/id6478112917">AppStore</a></b><hr>
 
 ### BASITA
 <p>All in One delivery solution. Get anything you desire delivered right to your doorstep, from food to essentials, all in one place. Say goodbye to multiple delivery apps and hello to convenience. Download Basita now!</p>
@@ -51,6 +51,8 @@
 <p>Abdel Rahman Mohamed, born in 1998 in Alexandria, is a young writer known for his horror stories and ideas. He studied at Alexandria University's Faculty of Arts.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed">GooglePlay</a> and <a href="https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743">AppStore</a></b><hr>
 
+<!--
 ### TAWSEL
 <p>The goal is to create a multi-vendor eCommerce platform for seamless buying and selling, where multiple sellers can manage their own online stores and sell products to customers.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.tawsel_app">GooglePlay</a></b>
+-->
