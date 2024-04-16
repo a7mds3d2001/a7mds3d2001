@@ -19,10 +19,6 @@
 <p>All in One delivery solution. Get anything you desire delivered right to your doorstep, from food to essentials, all in one place. Say goodbye to multiple delivery apps and hello to convenience. Download Basita now!</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and <a href="https://apps.apple.com/us/app/basita-%D8%A8%D8%B3%D9%8A%D8%B7%D9%87/id6443530678">AppStore</a></b><hr>
 
-### UNITED TV
-<p>United TV app, a Android TV application that allows users to watch movies, series, and live channels. The app sources content from APIs by subscription from manager dashboard.</p>
-<b>This project is install on TV box, I have an <a href="">APK</a></b><hr>
-
 ### ORDER
 <p>The Order application is an e-commerce application through which you can make online purchases with ease and security. The application features an easy to use multilingual user interface, where users can interact in Arabic and English. The app also includes features such as secure payment, multiple shipping options, promotions, and push alerts.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.order.order">GooglePlay</a> and <a href="https://apps.apple.com/us/app/order-fs/id6450720518">AppStore</a></b><hr>
@@ -52,6 +48,10 @@
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed">GooglePlay</a> and <a href="https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743">AppStore</a></b><hr>
 
 <!--
+### UNITED TV
+<p>United TV app, a Android TV application that allows users to watch movies, series, and live channels. The app sources content from APIs by subscription from manager dashboard.</p>
+<b>This project is install on TV box, I have an <a href="">APK</a></b><hr>
+
 ### TAWSEL
 <p>The goal is to create a multi-vendor eCommerce platform for seamless buying and selling, where multiple sellers can manage their own online stores and sell products to customers.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.tawsel_app">GooglePlay</a></b>
