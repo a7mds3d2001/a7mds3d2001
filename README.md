@@ -7,8 +7,10 @@
 [<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/64629250-8eb2-4f7f-b51a-ab4a1ab9960c" />](http://Wa.me/201026272813)
 [<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/962152e1-7eda-427e-82d9-91be7edd845d" />](https://www.linkedin.com/in/a7mds3d2001)
 [<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/ba3a2d64-3625-4565-a602-85b5c3653b5e" />](https://www.instagram.com/a7mds3d2001)
-<!-- End Section Contact Me -->
 
+
+<!-- End Section Contact Me -->
+<!-- 
 <h2>PROJECTS</h2>
 
 ### ROSTO
@@ -46,7 +48,7 @@
 ### ABDELRAHMAN MOHAMED
 <p>Abdel Rahman Mohamed, born in 1998 in Alexandria, is a young writer known for his horror stories and ideas. He studied at Alexandria University's Faculty of Arts.</p>
 <b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed">GooglePlay</a> and <a href="https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743">AppStore</a></b><hr>
-
+-->
 <!--
 ### UNITED TV
 <p>United TV app, a Android TV application that allows users to watch movies, series, and live channels. The app sources content from APIs by subscription from manager dashboard.</p>
