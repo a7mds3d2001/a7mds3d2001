@@ -1,5 +1,8 @@
 <h1>Hi I'm Ahmed Saad👋</h1>
 <h3>🔭 I'am currently working as Flutter Developer at EJAF TECHNOLOGY IRAQ</h3>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7mds3d2001&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Start Section Contact Me -->
 <!-- 
 <h2> CONTACT ME </h2>
