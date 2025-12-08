@@ -1,63 +1,189 @@
-<h1>Hi I'm Ahmed Saad👋</h1>
-<h3>🔭 I'am currently working as Flutter Developer at EJAF TECHNOLOGY IRAQ</h3>
+<h1 align="center">Hi, I'm Ahmed Saad 👋</h1>
+<h3 align="center">Flutter Developer | Mobile Team Lead | 5+ Years of Experience</h3>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7mds3d2001&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  Passionate Flutter Developer with strong experience in building scalable, high-performance mobile apps, leading engineering teams, and delivering production-ready solutions across fintech, delivery, healthcare, and booking platforms.
+</p>
 
-<!-- Start Section Contact Me -->
-<!-- 
-<h2> CONTACT ME </h2>
-[<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/8872fc9f-33bb-4a7c-8a19-c77931f724a4" />](https://www.facebook.com/a7mds3d2001)
-[<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/64629250-8eb2-4f7f-b51a-ab4a1ab9960c" />](http://Wa.me/201026272813)
-[<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/962152e1-7eda-427e-82d9-91be7edd845d" />](https://www.linkedin.com/in/a7mds3d2001)
-[<img src="https://github.com/a7mds3d2001/a7mds3d2001/assets/70177377/ba3a2d64-3625-4565-a602-85b5c3653b5e" />](https://www.instagram.com/a7mds3d2001)
--->
+---
 
-<!-- End Section Contact Me -->
-<!-- 
-<h2>PROJECTS</h2>
+## 🧾 Summary  
+Flutter Developer with 5+ years experience delivering 15+ production apps across multiple industries. Skilled in state management, clean architecture, CI/CD automation, and leading high-performance teams.  
 
-### ROSTO
-<p>Rosto, a cutting-edge restaurant app that empowers customers to browse menus, place orders, and make reservations effortlessly. Rosto enhances the dining experience with user-friendly features.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.rosto.rosto">GooglePlay</a> and <a href="https://apps.apple.com/us/app/rosto/id6478112917">AppStore</a></b><hr>
+---
 
-### BASITA
-<p>All in One delivery solution. Get anything you desire delivered right to your doorstep, from food to essentials, all in one place. Say goodbye to multiple delivery apps and hello to convenience. Download Basita now!</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.sd.basita">GooglePlay</a> and <a href="https://apps.apple.com/us/app/basita-%D8%A8%D8%B3%D9%8A%D8%B7%D9%87/id6443530678">AppStore</a></b><hr>
+## 📬 Contact Me
+<p align="center">
+  <a href="mailto:a7md.s3d.2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201026272813"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/a7mds3d2001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/a7mds3d2001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/a7mds3d2001"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/a7mds3d2001"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-### ORDER
-<p>The Order application is an e-commerce application through which you can make online purchases with ease and security. The application features an easy to use multilingual user interface, where users can interact in Arabic and English. The app also includes features such as secure payment, multiple shipping options, promotions, and push alerts.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.order.order">GooglePlay</a> and <a href="https://apps.apple.com/us/app/order-fs/id6450720518">AppStore</a></b><hr>
+---
 
-### M3LESH
-<p>M3lesh is a mobile app designed to support individuals with autism in expressing their emotions and concerns with others. Others in the comments encourage them to overcome their problems.</p> 
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.goldscrum.m3lesh">GooglePlay</a></b><hr>
-  
-### WAFFAR CASH
-<p>The project aims to create a multi-vendor eCommerce platform for sellers to manage their online stores and offer a seamless buying and selling experience for customers.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.gao.waffar_cash">GooglePlay</a> and <a href="https://apps.apple.com/us/app/waffar-cash/id1626369167">AppStore</a></b><hr>
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=a7mds3d2001&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds3d2001&layout=compact&theme=tokyonight" />
+</p>
 
-### DISCOUNT EMY
-<p>Discount Emy is one of the family. We will help you in providing discounts for many different educational and recreational places for adults and children from today, all year long.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.emy_discount">GooglePlay</a> and <a href="https://apps.apple.com/us/app/discount-emy/id1617326763">AppStore</a></b><hr>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=a7mds3d2001&theme=tokyonight" />
+</p>
 
-### GOVET
-<p>Govet is Egypt's first all-inclusive veterinary platform for pets, enabling users to book appointments, video calls, or home visits, add pets to their account, and make payments through the app.</p> 
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.govet">GooglePlay</a></b><hr>
+---
 
-### DAR ALKAHRBAA
-<p>Dar Alkahrbaa is a QR code-based student attendance system for the training center, enabling students to log in, subscribe to courses, attend sessions, and send apology emails for missed sessions.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technoSpace.dar_elkahraba_app">GooglePlay</a> and <a href="https://apps.apple.com/us/app/dar-alkahrba/id1597367206">AppStore</a></b><hr>
+## 💼 Experience
 
-### ABDELRAHMAN MOHAMED
-<p>Abdel Rahman Mohamed, born in 1998 in Alexandria, is a young writer known for his horror stories and ideas. He studied at Alexandria University's Faculty of Arts.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed">GooglePlay</a> and <a href="https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743">AppStore</a></b><hr>
--->
-<!--
-### UNITED TV
-<p>United TV app, a Android TV application that allows users to watch movies, series, and live channels. The app sources content from APIs by subscription from manager dashboard.</p>
-<b>This project is install on TV box, I have an <a href="">APK</a></b><hr>
+### 🏢 **EJAF TECHNOLOGY — Senior Flutter Developer**
+**Full-time | Jan 2024 – Present | Iraq (Remote)**  
+Led the adoption of modern Flutter practices, delivering scalable iOS and Android apps. Improved code quality, performance, and team workflows using agile methods and advanced development tools.
 
-### TAWSEL
-<p>The goal is to create a multi-vendor eCommerce platform for seamless buying and selling, where multiple sellers can manage their own online stores and sell products to customers.</p>
-<b>This project is publish on <a href="https://play.google.com/store/apps/details?id=com.technospace.tawsel_app">GooglePlay</a></b>
--->
+---
+
+### 🏢 **Du v Du — Mobile Team Lead**
+**Part-time | Jan 2024 – Present | Cairo, Egypt (Remote)**  
+Directed the development of “Duvdu,” managing architecture, planning, and team coordination. Ensured high-quality, scalable delivery through agile sprints.
+
+---
+
+### 🏢 **Hafaawa — Mobile Team Lead**
+**Part-time | Sep 2024 – May 2025 | Saudi Arabia (Remote)**  
+Led a remote Flutter team to build and enhance an event-services platform. Improved delivery pipelines, boosted workflows, and ensured seamless booking and listing features.
+
+---
+
+## 🏢 **Peacode**
+
+### **Mobile Team Lead**
+**Part-time | Jan 2024 – Dec 2024 | Cairo, Egypt (Hybrid)**  
+Coordinated cross-functional teams to deliver high-quality Flutter apps. Improved workflows, applied clean architecture, and mentored engineers to boost efficiency.
+
+### **Senior Flutter Developer**
+**Full-time | Jan 2023 – Dec 2023 | Cairo, Egypt (Hybrid)**  
+Handled end-to-end Flutter development, enhancing performance and quality. Collaborated with design and backend teams, delivering scalable app features.
+
+---
+
+## 🏢 **SD Solutions — Flutter Developer**
+**Full-time | Jan 2022 – Dec 2022 | New Cairo, Egypt (On-site)**  
+Developed and optimized Flutter apps focusing on performance and usability. Collaborated on architecture, code reviews, and ensuring high-quality releases.
+
+---
+
+## 🏢 **Vzadi — Flutter Developer**
+**Part-time | Jan 2022 – Jun 2022 | 6 October, Giza, Egypt (Remote)**  
+Developed Flutter apps with clean architecture, strong performance, and high UI/UX standards. Supported team delivery of reliable features.
+
+---
+
+## 🏢 **Techno Space**
+
+### **Flutter Trainer**
+**Part-time | Jan 2022 – Jun 2022 | 6 October, Giza, Egypt (Hybrid)**  
+Trained interns on Flutter best practices, clean architecture, and UI/UX fundamentals, helping them gain real project experience.
+
+### **Flutter Developer**
+**Full-time | Jan 2021 – Dec 2021 | 6 October, Giza, Egypt (Hybrid)**  
+Built and maintained Flutter apps end-to-end, focusing on UI/UX quality, clean architecture, and performance. Ensured on-time delivery and high code quality.
+
+### **Flutter Developer Intern**
+**Internship | Jul 2020 – Dec 2020 | 6 October, Giza, Egypt**  
+Assisted in developing Flutter apps, improving UI/UX, and applying clean architecture. Gained practical experience through testing, code reviews, and team collaboration.
+
+---
+
+## 🏆 Achievements  
+- 100K+ total app downloads.  
+- Reduced crash rates by 35% using CI/CD pipelines.  
+- Managed remote teams delivering projects ahead of deadline.  
+- Improved UX and retention by 25% across multiple apps.
+
+---
+
+## 📌 Skills
+
+### Languages & Frameworks
+Dart, Flutter  
+
+### State Management
+BLoC, Cubit, GetX, Provider, Riverpod  
+
+### Architecture
+Clean Architecture, MVVM, SOLID Principles, Dependency Injection (GetIt)  
+
+### APIs & Networking
+REST APIs, GraphQL, DIO, HTTP  
+
+### Databases & Storage
+Firebase Firestore, SQLite, Hive, MySQL  
+
+### Tools & Collaboration
+Git, GitHub, GitLab, Jira, Trello, Notion, Figma, Postman  
+
+### Testing & CI/CD
+Unit, Widget & Integration Testing, GitHub Actions, Fastlane, Docker  
+
+### UI / UX
+Responsive Design, Animations, Lottie  
+
+### Cloud Services
+Firebase Authentication, FCM, Analytics, Storage  
+
+---
+
+## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,gitlab,python,figma,postman,androidstudio,vscode,docker" />
+</p>
+
+---
+
+# 📱 Projects  
+
+### **Shuaa Alamal (2025)**  
+Medical booking app for radiology centers in KSA.
+
+### **Chiaka (2025)**  
+Luxury accessories rental app with secure online payments.
+
+### **Maqdia**  
+Home & office service provider booking platform.
+
+### **Duvdu (2024–2025)**  
+Creative marketplace for advertising, production & weddings.
+
+### **Hafawa (2024–2025)**  
+Event essentials booking platform (User + Business + Delivery apps).
+
+### **Rosto (2023–2024)**  
+Restaurant app with real-time order tracking.
+
+### **Order FS (2023–2024)**  
+E-commerce platform for Kuwait’s delivery market.
+
+### **M6lob (2023)**  
+Jobs & news app with built-in CV generator.
+
+### **United TV (2023)**  
+IPTV streaming app with EPG + VOD support.
+
+### **Waffar Cash (2022)**  
+Delivery & marketplace application for local shops.
+
+### **Discount Emy (2021–2022)**  
+Education discount and offers app.
+
+### **Dar AlKahrabaa (2021–2022)**  
+Course management + attendance tracking system.
+
+### **Govet (2021–2022)**  
+Veterinary booking + remote consultation app.
+
+### **Abdelrahman Mohamed (2020)**  
+Horror stories library app with offline access.
+
+---
