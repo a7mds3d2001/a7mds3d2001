@@ -133,47 +133,78 @@ Firebase Authentication, FCM, Analytics, Storage
 # 📱 Projects  
 
 ### **Maqdia**
-**Maqdia** links users with trusted home and office service providers, making it **quick, simple, and secure** to book services or offer professional skills.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
+links users with trusted home and office service providers, making it **quick, simple, and secure** to book services or offer professional skills.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** | **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
+
+---
 
 ### **Duvdu**  
 Online platform connecting clients with creatives for video production, advertising, voice-over, and wedding services.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
 
-### **Hafawa**  
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** | **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
+
+---
+
+### **Hafawa**
 Saudi platform for booking event essentials like chairs, décor, and flowers based on event dates. Enables smooth browsing, scheduling, and order management.
-**[UserApp](https://apps.apple.com/eg/app/hafawa/id6745311601)** **[BusinessApp](https://apps.apple.com/eg/app/hafawa-business/id6745311661)** **[DeliveryApp](https://apps.apple.com/eg/app/hafawa-delivery/id6745311686)**
 
-### **Rosto**  
+**Platforms:** **[UserApp](https://apps.apple.com/eg/app/hafawa/id6745311601)** | **[BusinessApp](https://apps.apple.com/eg/app/hafawa-business/id6745311661)** | **[DeliveryApp](https://apps.apple.com/eg/app/hafawa-delivery/id6745311686)**
+
+---
+
+### **Rosto**
 Restaurant application offering menu and discount listings, home delivery ordering, and real-time order tracking.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.rosto.rosto)** **[AppStore](https://apps.apple.com/eg/app/rosto/id6478112917)**
 
-### **Order FS**  
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.rosto.rosto)** | **[AppStore](https://apps.apple.com/eg/app/rosto/id6478112917)**
+
+---
+
+### **Order FS**
 E-Commerce application for Kuwait’s Order Food Staff, featuring product and offer listings, cart management, order placement, and delivery tracking.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.order.order)** **[AppStore](https://apps.apple.com/us/app/order-fs/id6450720518)**
 
-### **M6lob**  
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.order.order)** | **[AppStore](https://apps.apple.com/us/app/order-fs/id6450720518)**
+
+---
+
+### **M6lob**
 Jobs and news app enabling users to generate sample CVs and browse job listings from multiple publications.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.jobs.m6lob&hl=en)** **[AppStore](https://apps.apple.com/eg/app/mtlob-%D9%85%D8%B7%D9%84%D9%88%D8%A8/id6499473889)**
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.jobs.m6lob&hl=en)** | **[AppStore](https://apps.apple.com/eg/app/mtlob-%D9%85%D8%B7%D9%84%D9%88%D8%A8/id6499473889)**
+
+---
 
 ### **Waffar Cash**  
 Delivery app linking customers with local shops and restaurants for seamless ordering, real-time tracking, and fast delivery.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.gao.waffar_cash)** **[AppStore](https://apps.apple.com/us/app/waffar-cash/id1626369167)**
 
-### **Discount Emy**  
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.gao.waffar_cash)** | **[AppStore](https://apps.apple.com/us/app/waffar-cash/id1626369167)**
+
+---
+
+### **Discount Emy**
 Education savings application offering discounts on a variety of services, including schools, courses, universities, nurseries, camps, and games.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.emy_discount)** **[AppStore](https://apps.apple.com/us/app/discount-emy/id1617326763)**
 
-### **Dar AlKahrabaa**  
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.emy_discount)** | **[AppStore](https://apps.apple.com/us/app/discount-emy/id1617326763)**
+
+---
+
+### **Dar AlKahrabaa**
 Courses center app managing attendance and absence, facilitating course bookings and session attendance, and delivering course materials.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.dar_alkahrba)** **[AppStore](https://apps.apple.com/us/app/dar-alkahrba/id1597367206)**
 
-### **Govet**  
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.dar_alkahrba)** | **[AppStore](https://apps.apple.com/us/app/dar-alkahrba/id1597367206)**
+
+---
+
+### **Govet**
 Pet-care app linking owners to licensed vets for remote consultations, appointment booking, symptom checks, e-records and personalized treatments.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.govet)** **[AppStore](https://apps.apple.com/us/app/govet/id#)**
 
-### **Abdelrahman Mohamed**  
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.govet)** | **[AppStore](https://apps.apple.com/us/app/govet/id#)**
+
+---
+
+### **Abdelrahman Mohamed**
 Horror stories application for Egyptian author Abdelrahman Mohamed, featuring a categorized library of chilling tales, offline access, bookmarking, and new release alerts.
-**[PlayStore](https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed)** **[AppStore](https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743)**
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed)** | **[AppStore](https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743)**
 
 ---
