@@ -137,6 +137,13 @@ Saudi platform for booking event essentials like chairs, décor, and flowers bas
 
 ---
 
+### **Uzex**
+A smooth marketplace app for swapping or selling items. Users can list products, browse offers, and chat in-app for quick, secure, and easy communication.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.uzex.uzexAppApp)**
+
+---
+
 ### **Rosto**
 Restaurant application offering menu and discount listings, home delivery ordering, and real-time order tracking.
 
