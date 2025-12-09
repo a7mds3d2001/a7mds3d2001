@@ -39,7 +39,7 @@ Directed the development of “Duvdu,” managing architecture, planning, and te
 ---
 
 ### 🏢 **Hafaawa — Mobile Team Lead**
-**Part-time | Sep 2024 – May 2025 | Saudi Arabia (Remote)**  
+**Part-time | Jan 2025 – Dec 2025 | Saudi Arabia (Remote)**  
 Led a remote Flutter team to build and enhance an event-services platform. Improved delivery pipelines, boosted workflows, and ensured seamless booking and listing features.
 
 ---
