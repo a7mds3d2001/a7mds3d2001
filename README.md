@@ -56,15 +56,15 @@ Handled end-to-end Flutter development, enhancing performance and quality. Colla
 
 ---
 
-## 🏢 **SD Solutions — Flutter Developer**
-**Full-time | Jan 2022 – Dec 2022 | New Cairo, Egypt (On-site)**  
-Developed and optimized Flutter apps focusing on performance and usability. Collaborated on architecture, code reviews, and ensuring high-quality releases.
+## 🏢 **Vzadi — Flutter Developer**
+**Part-time | Jan 2023 – Jun 2023 | 6 October, Giza, Egypt (Remote)**  
+Developed Flutter apps with clean architecture, strong performance, and high UI/UX standards. Supported team delivery of reliable features.
 
 ---
 
-## 🏢 **Vzadi — Flutter Developer**
-**Part-time | Jan 2022 – Jun 2022 | 6 October, Giza, Egypt (Remote)**  
-Developed Flutter apps with clean architecture, strong performance, and high UI/UX standards. Supported team delivery of reliable features.
+## 🏢 **SD Solutions — Flutter Developer**
+**Full-time | Jan 2022 – Dec 2022 | New Cairo, Egypt (On-site)**  
+Developed and optimized Flutter apps focusing on performance and usability. Collaborated on architecture, code reviews, and ensuring high-quality releases.
 
 ---
 
