@@ -116,66 +116,17 @@ Assisted in developing Flutter apps, improving UI/UX, and applying clean archite
 
 # 📱 Projects  
 
-### **Maqdia**
-links users with trusted home and office service providers, making it **quick, simple, and secure** to book services or offer professional skills.
+### **Abdelrahman Mohamed**
+Horror stories application for Egyptian author Abdelrahman Mohamed, featuring a categorized library of chilling tales, offline access, bookmarking, and new release alerts.
 
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** | **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
-
----
-
-### **Duvdu**  
-Online platform connecting clients with creatives for video production, advertising, voice-over, and wedding services.
-
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** | **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed)** | **[AppStore](https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743)**
 
 ---
 
-### **Hafawa**
-Saudi platform for booking event essentials like chairs, décor, and flowers based on event dates. Enables smooth browsing, scheduling, and order management.
+### **Alkanz**
+Alkanz lets users shop a variety of products and earn raffle tickets with every purchase. Extra tickets can be gained by donating unused items, increasing the chance of winning valuable prizes.
 
-**Platforms:** **[UserApp](https://apps.apple.com/eg/app/hafawa/id6745311601)** | **[BusinessApp](https://apps.apple.com/eg/app/hafawa-business/id6745311661)** | **[DeliveryApp](https://apps.apple.com/eg/app/hafawa-delivery/id6745311686)**
-
----
-
-### **Uzex**
-A smooth marketplace app for swapping or selling items. Users can list products, browse offers, and chat in-app for quick, secure, and easy communication.
-
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.uzex.uzexAppApp)**
-
----
-
-### **Rosto**
-Restaurant application offering menu and discount listings, home delivery ordering, and real-time order tracking.
-
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.rosto.rosto)** | **[AppStore](https://apps.apple.com/eg/app/rosto/id6478112917)**
-
----
-
-### **Order FS**
-E-Commerce application for Kuwait’s Order Food Staff, featuring product and offer listings, cart management, order placement, and delivery tracking.
-
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.order.order)** | **[AppStore](https://apps.apple.com/us/app/order-fs/id6450720518)**
-
----
-
-### **M6lob**
-Jobs and news app enabling users to generate sample CVs and browse job listings from multiple publications.
-
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.jobs.m6lob&hl=en)** | **[AppStore](https://apps.apple.com/eg/app/mtlob-%D9%85%D8%B7%D9%84%D9%88%D8%A8/id6499473889)**
-
----
-
-### **Waffar Cash**  
-Delivery app linking customers with local shops and restaurants for seamless ordering, real-time tracking, and fast delivery.
-
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.gao.waffar_cash)** | **[AppStore](https://apps.apple.com/us/app/waffar-cash/id1626369167)**
-
----
-
-### **Discount Emy**
-Education savings application offering discounts on a variety of services, including schools, courses, universities, nurseries, camps, and games.
-
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.emy_discount)** | **[AppStore](https://apps.apple.com/us/app/discount-emy/id1617326763)**
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.metagate.alkanzz)**
 
 ---
 
@@ -186,6 +137,20 @@ Courses center app managing attendance and absence, facilitating course bookings
 
 ---
 
+### **Discount Emy**
+Education savings application offering discounts on a variety of services, including schools, courses, universities, nurseries, camps, and games.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.technospace.emy_discount)** | **[AppStore](https://apps.apple.com/us/app/discount-emy/id1617326763)**
+
+---
+
+### **Duvdu**  
+Online platform connecting clients with creatives for video production, advertising, voice-over, and wedding services.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** | **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
+
+---
+
 ### **Govet**
 Pet-care app linking owners to licensed vets for remote consultations, appointment booking, symptom checks, e-records and personalized treatments.
 
@@ -193,9 +158,72 @@ Pet-care app linking owners to licensed vets for remote consultations, appointme
 
 ---
 
-### **Abdelrahman Mohamed**
-Horror stories application for Egyptian author Abdelrahman Mohamed, featuring a categorized library of chilling tales, offline access, bookmarking, and new release alerts.
+### **Hafawa**
+Saudi platform for booking event essentials like chairs, décor, and flowers based on event dates. Enables smooth browsing, scheduling, and order management.
 
-**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.elshafey.abd_elrahman_mohamed)** | **[AppStore](https://apps.apple.com/eg/app/abdelrhman-mohamed/id1600160743)**
+**Platforms:** **[UserApp](https://apps.apple.com/eg/app/hafawa/id6745311601)** | **[BusinessApp](https://apps.apple.com/eg/app/hafawa-business/id6745311661)** | **[DeliveryApp](https://apps.apple.com/eg/app/hafawa-delivery/id6745311686)**
+
+---
+
+### **M3lesh**
+M3lesh helps users express their feelings, relieve stress, and release negative energy. The app provides a safe space for emotional support, helping users feel more comfortable and balanced.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.goldscrum.m3lesh)**
+
+---
+
+### **M6lob**
+Jobs and news app enabling users to generate sample CVs and browse job listings from multiple publications.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.jobs.m6lob&hl=en)** | **[AppStore](https://apps.apple.com/eg/app/mtlob-%D9%85%D8%B7%D9%84%D9%88%D8%A8/id6499473889)**
+
+---
+
+### **Maqdia**
+links users with trusted home and office service providers, making it **quick, simple, and secure** to book services or offer professional skills.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.maqdyya.maqdyya)** | **[AppStore](https://apps.apple.com/eg/app/maqdia/id6753150399)**
+
+---
+
+### **Order FS**
+E-Commerce application for Kuwait’s Order Food Staff, featuring product and offer listings, cart management, order placement, and delivery tracking.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.order.order)** | **[AppStore](https://apps.apple.com/us/app/order-fs/id6450720518)**
+
+---
+
+### **Rosto**
+Restaurant application offering menu and discount listings, home delivery ordering, and real-time order tracking.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.rosto.rosto)** | **[AppStore](https://apps.apple.com/eg/app/rosto/id6478112917)**
+
+---
+
+### **Teb & Aafya**
+Teb & Aafya helps users find trusted doctors in Sudan by specialty, city, or name. The app provides contact details, clinic hours, and key information to simplify booking and accessing medical care.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.peacode.tebw3fyaandroid)**
+
+---
+
+### **Teens Hangouts**
+A location-exploration application that allows users to discover places, check whether a destination suits their preferences, and save favorite spots for quick access. The app provides an intuitive browsing experience to help users decide where to go based on their interests.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.elshafey.hangouts)** | **[AppStore](https://apps.apple.com/us/app/teens-hangouts/id1527844249)**
+
+---
+
+### **Uzex**
+A smooth marketplace app for swapping or selling items. Users can list products, browse offers, and chat in-app for quick, secure, and easy communication.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.uzex.uzexAppApp)**
+
+---
+
+### **Waffar Cash**  
+Delivery app linking customers with local shops and restaurants for seamless ordering, real-time tracking, and fast delivery.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.gao.waffar_cash)** | **[AppStore](https://apps.apple.com/us/app/waffar-cash/id1626369167)**
 
 ---
