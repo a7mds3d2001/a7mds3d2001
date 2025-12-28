@@ -32,7 +32,7 @@ Led the adoption of modern Flutter practices, delivering scalable iOS and Androi
 
 ---
 
-### 🏢 **Du v Du — Mobile Team Lead**
+### 🏢 **Main Street Company — Mobile Team Lead**
 **Part-time | Jan 2024 – Present | Cairo, Egypt (Remote)**  
 Directed the development of “Duvdu,” managing architecture, planning, and team coordination. Ensured high-quality, scalable delivery through agile sprints.
 
