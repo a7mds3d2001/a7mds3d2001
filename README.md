@@ -123,6 +123,13 @@ Horror stories application for Egyptian author Abdelrahman Mohamed, featuring a 
 
 ---
 
+### **Albinti**
+An internal management application built to organize daily operations, manage materials, and streamline internal requests and approval workflows through a centralized, secure, and easy-to-use digital platform.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=iq.ejaf.albinti)** | **[AppStore](https://apps.apple.com/eg/app/albinti/id6757249960)**
+
+---
+
 ### **Alkanz**
 Alkanz lets users shop a variety of products and earn raffle tickets with every purchase. Extra tickets can be gained by donating unused items, increasing the chance of winning valuable prizes.
 
