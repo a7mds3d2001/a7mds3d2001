@@ -214,6 +214,13 @@ An HR management application designed to simplify the employee experience by ena
 
 ---
 
+### **Taskaty**
+An HR management application built to simplify the employee experience by supporting check-in and check-out, leave requests, payslip access, attendance logs, and internal maintenance request management in one centralized platform.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=com.ejaf.tickets_app)** | **[AppStore](https://apps.apple.com/us/app/taskaty-hr/id6503702278)**
+
+---
+
 ### **Teb & Aafya**
 Teb & Aafya helps users find trusted doctors in Sudan by specialty, city, or name. The app provides contact details, clinic hours, and key information to simplify booking and accessing medical care.
 
