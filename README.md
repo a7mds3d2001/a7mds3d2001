@@ -207,6 +207,13 @@ Restaurant application offering menu and discount listings, home delivery orderi
 
 ---
 
+### **Staffy HR**
+An HR management application designed to simplify the employee experience by enabling check-in and check-out, leave requests, payslip access, attendance tracking, and internal maintenance request management through one platform.
+
+**Platforms:** **[PlayStore](https://play.google.com/store/apps/details?id=iq.ejaf.hr_mobile_app)** | **[AppStore](https://apps.apple.com/us/app/staffy-hr/id1645310779)**
+
+---
+
 ### **Teb & Aafya**
 Teb & Aafya helps users find trusted doctors in Sudan by specialty, city, or name. The app provides contact details, clinic hours, and key information to simplify booking and accessing medical care.
 
