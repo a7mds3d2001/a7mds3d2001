@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0468D7&center=true&vCenter=true&width=640&lines=Ahmed+Saad;Mobile+Team+Lead+%C2%B7+Senior+Flutter+Developer;5%2B+years+building+production+Flutter+apps" alt="Ahmed Saad" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=02569B&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ahmed+Saad+%F0%9F%91%8B;Mobile+Team+Lead+%C2%B7+Senior+Flutter+Dev;Building+scalable+Flutter+apps" alt="Ahmed Saad" />
 
 <p>
   <b>Mobile Team Lead · Senior Flutter Developer · 5+ years</b><br/>
@@ -9,29 +9,37 @@
 </p>
 
 <p>
-  <a href="mailto:a7md.s3d.2001@gmail.com"><img src="https://img.shields.io/badge/Email-0468D7?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/a7mds3d2001"><img src="https://img.shields.io/badge/LinkedIn-0468D7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wa.me/201026272813"><img src="https://img.shields.io/badge/WhatsApp-0468D7?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://github.com/a7mds3d2001"><img src="https://img.shields.io/badge/GitHub-0468D7?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.facebook.com/a7mds3d2001"><img src="https://img.shields.io/badge/Facebook-0468D7?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/a7mds3d2001"><img src="https://img.shields.io/badge/Instagram-0468D7?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:a7md.s3d.2001@gmail.com"><img src="https://img.shields.io/badge/Email-02569B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/a7mds3d2001"><img src="https://img.shields.io/badge/LinkedIn-02569B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/201026272813"><img src="https://img.shields.io/badge/WhatsApp-02569B?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://github.com/a7mds3d2001"><img src="https://img.shields.io/badge/GitHub-02569B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/a7mds3d2001"><img src="https://img.shields.io/badge/Facebook-02569B?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/a7mds3d2001"><img src="https://img.shields.io/badge/Instagram-02569B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Apps_Shipped-15%2B-0468D7?style=flat-square&labelColor=1A1A1A" alt="15+ apps"/>
-  <img src="https://img.shields.io/badge/Downloads-100K%2B-0468D7?style=flat-square&labelColor=1A1A1A" alt="100K+ downloads"/>
-  <img src="https://img.shields.io/badge/Faster_Releases-~40%25-0468D7?style=flat-square&labelColor=1A1A1A" alt="~40% faster releases"/>
-  <img src="https://img.shields.io/badge/Fewer_Crashes-~35%25-0468D7?style=flat-square&labelColor=1A1A1A" alt="~35% fewer crashes"/>
+  <img src="https://img.shields.io/badge/Apps_Shipped-15%2B-02569B?style=flat-square&labelColor=455A64" alt="15+ apps"/>
+  <img src="https://img.shields.io/badge/Downloads-100K%2B-02569B?style=flat-square&labelColor=455A64" alt="100K+ downloads"/>
+  <img src="https://img.shields.io/badge/Faster_Releases-~40%25-02569B?style=flat-square&labelColor=455A64" alt="~40% faster releases"/>
+  <img src="https://img.shields.io/badge/Fewer_Crashes-~35%25-02569B?style=flat-square&labelColor=455A64" alt="~35% fewer crashes"/>
 </p>
 
 </div>
 
 ---
 
-## 💻 About
+## 👋 About
 
-Mobile Team Lead &amp; Senior Flutter Developer with 5+ years shipping production apps end to end.<br/>
-Currently **Senior Flutter Developer @ EJAF Technology** (Iraq · Remote).
+> Currently building things as a **Senior Flutter Developer @ EJAF Technology** (Iraq · Remote) — leading mobile teams and shipping production Flutter apps end-to-end.
+
+---
+
+## ⚡ Highlights
+
+- 📱 **15+ apps** shipped to the App Store &amp; Google Play
+- ⬇️ **100K+ downloads** across published apps
+- 🚀 **~40% faster releases** with CI/CD &amp; Fastlane automation
+- 🛡️ **~35% fewer crashes** through clean architecture &amp; testing
 
 ---
 
@@ -39,66 +47,66 @@ Currently **Senior Flutter Developer @ EJAF Technology** (Iraq · Remote).
 
 **Languages**
 
-![Dart](https://img.shields.io/badge/Dart-0468D7?style=flat-square&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=dart&logoColor=white)
 
 **Framework**
 
-![Flutter](https://img.shields.io/badge/Flutter-0468D7?style=flat-square&logo=flutter&logoColor=white)
-![Flutter Web](https://img.shields.io/badge/Flutter_Web-0468D7?style=flat-square&logo=flutter&logoColor=white)
-![Flutter Desktop](https://img.shields.io/badge/Flutter_Desktop-0468D7?style=flat-square&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter Web](https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter Desktop](https://img.shields.io/badge/Flutter_Desktop-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**State**
+**State Management**
 
-![BLoC](https://img.shields.io/badge/BLoC-0468D7?style=flat-square&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-0468D7?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0468D7?style=flat-square&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-0468D7?style=flat-square&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-0468D7?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Architecture**
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1A1A1A?style=flat-square)
-![MVVM](https://img.shields.io/badge/MVVM-1A1A1A?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-1A1A1A?style=flat-square)
-![DI (GetIt)](https://img.shields.io/badge/DI_(GetIt)-1A1A1A?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-455A64?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-455A64?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-455A64?style=flat-square)
+![DI (GetIt)](https://img.shields.io/badge/DI_(GetIt)-455A64?style=flat-square)
 
 **Backend &amp; Data**
 
-![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-1A1A1A?style=flat-square&logo=apachehive&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1A1A1A?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-455A64?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Hive](https://img.shields.io/badge/Hive-455A64?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-455A64?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-455A64?style=flat-square&logo=mysql&logoColor=white)
 
 **Networking**
 
-![DIO](https://img.shields.io/badge/DIO-1A1A1A?style=flat-square)
-![REST](https://img.shields.io/badge/REST-1A1A1A?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-1A1A1A?style=flat-square&logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=flat-square&logo=postman&logoColor=white)
+![DIO](https://img.shields.io/badge/DIO-455A64?style=flat-square)
+![REST](https://img.shields.io/badge/REST-455A64?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-455A64?style=flat-square&logo=graphql&logoColor=E10098)
+![Postman](https://img.shields.io/badge/Postman-455A64?style=flat-square&logo=postman&logoColor=FF6C37)
 
-**Testing &amp; CI**
+**Testing &amp; CI/CD**
 
-![Fastlane](https://img.shields.io/badge/Fastlane-1A1A1A?style=flat-square&logo=fastlane&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-1A1A1A?style=flat-square&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-455A64?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-455A64?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-455A64?style=flat-square&logo=gitlab&logoColor=FC6D26)
+![Docker](https://img.shields.io/badge/Docker-455A64?style=flat-square&logo=docker&logoColor=white)
 
 **Payments**
 
-![Stripe](https://img.shields.io/badge/Stripe-1A1A1A?style=flat-square&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-1A1A1A?style=flat-square&logo=paypal&logoColor=white)
-![PayMob](https://img.shields.io/badge/PayMob-1A1A1A?style=flat-square)
-![Hesabe](https://img.shields.io/badge/Hesabe-1A1A1A?style=flat-square)
-![PayTap](https://img.shields.io/badge/PayTap-1A1A1A?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-455A64?style=flat-square&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-455A64?style=flat-square&logo=paypal&logoColor=white)
+![PayMob](https://img.shields.io/badge/PayMob-455A64?style=flat-square)
+![Hesabe](https://img.shields.io/badge/Hesabe-455A64?style=flat-square)
+![PayTap](https://img.shields.io/badge/PayTap-455A64?style=flat-square)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-1A1A1A?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-1A1A1A?style=flat-square&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-1A1A1A?style=flat-square&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-1A1A1A?style=flat-square&logo=slack&logoColor=white)
+![Git](https://img.shields.io/badge/Git-455A64?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-455A64?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-455A64?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-455A64?style=flat-square&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-455A64?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-455A64?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
@@ -122,10 +130,10 @@ Currently **Senior Flutter Developer @ EJAF Technology** (Iraq · Remote).
 | Project | Tag | Links |
 | :-- | :-- | :-- |
 | **Hafawa** | Booking | [User](https://apps.apple.com/eg/app/hafawa/id6745311601) · [Business](https://apps.apple.com/eg/app/hafawa-business/id6745311661) · [Delivery](https://apps.apple.com/eg/app/hafawa-delivery/id6745311686) |
-| **Staffy HR** | HR | [Google Play](https://play.google.com/store/apps/details?id=iq.ejaf.hr_mobile_app) · [App Store](https://apps.apple.com/us/app/staffy-hr/id1645310779) |
-| **Taskaty** | HR | [Google Play](https://play.google.com/store/apps/details?id=com.ejaf.tickets_app) · [App Store](https://apps.apple.com/us/app/taskaty-hr/id6503702278) |
 | **Waffar Cash** | Fintech | [Google Play](https://play.google.com/store/apps/details?id=com.gao.waffar_cash) · [App Store](https://apps.apple.com/us/app/waffar-cash/id1626369167) |
 | **Duvdu** | Marketplace | [Google Play](https://play.google.com/store/apps/details?id=com.duvdu.duvdu_app) · [App Store](https://apps.apple.com/eg/app/duvdu/id6743176883) |
+| **Staffy HR** | HR | [Google Play](https://play.google.com/store/apps/details?id=iq.ejaf.hr_mobile_app) · [App Store](https://apps.apple.com/us/app/staffy-hr/id1645310779) |
+| **Taskaty** | HR | [Google Play](https://play.google.com/store/apps/details?id=com.ejaf.tickets_app) · [App Store](https://apps.apple.com/us/app/taskaty-hr/id6503702278) |
 | **Albinti** | Operations | [Google Play](https://play.google.com/store/apps/details?id=iq.ejaf.albinti) · [App Store](https://apps.apple.com/eg/app/albinti/id6757249960) |
 
 <details>
@@ -169,8 +177,8 @@ Currently **Senior Flutter Developer @ EJAF Technology** (Iraq · Remote).
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=a7mds3d2001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&theme=graywhite&title_color=0468D7&icon_color=0468D7&text_color=555555" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds3d2001&layout=compact&hide_border=true&theme=graywhite&title_color=0468D7&text_color=555555" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=a7mds3d2001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&theme=graywhite&title_color=02569B&icon_color=02569B&text_color=555555" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds3d2001&layout=compact&hide_border=true&theme=graywhite&title_color=02569B&text_color=555555" alt="Top languages" />
 
 </div>
 
@@ -179,12 +187,12 @@ Currently **Senior Flutter Developer @ EJAF Technology** (Iraq · Remote).
 ## 📫 Connect
 
 <p align="center">
-  <a href="mailto:a7md.s3d.2001@gmail.com"><img src="https://img.shields.io/badge/Email-0468D7?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/a7mds3d2001"><img src="https://img.shields.io/badge/LinkedIn-0468D7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wa.me/201026272813"><img src="https://img.shields.io/badge/WhatsApp-0468D7?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://github.com/a7mds3d2001"><img src="https://img.shields.io/badge/GitHub-0468D7?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.facebook.com/a7mds3d2001"><img src="https://img.shields.io/badge/Facebook-0468D7?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/a7mds3d2001"><img src="https://img.shields.io/badge/Instagram-0468D7?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:a7md.s3d.2001@gmail.com"><img src="https://img.shields.io/badge/Email-02569B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/a7mds3d2001"><img src="https://img.shields.io/badge/LinkedIn-02569B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/201026272813"><img src="https://img.shields.io/badge/WhatsApp-02569B?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://github.com/a7mds3d2001"><img src="https://img.shields.io/badge/GitHub-02569B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/a7mds3d2001"><img src="https://img.shields.io/badge/Facebook-02569B?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/a7mds3d2001"><img src="https://img.shields.io/badge/Instagram-02569B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <div align="center">
